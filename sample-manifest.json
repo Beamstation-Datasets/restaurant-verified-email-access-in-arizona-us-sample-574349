@@ -1,0 +1,12 @@
+{
+  "export_job_id": "54c16b96-94e8-45f9-969f-c78870334afa",
+  "id_short": 574349,
+  "published_at": "2026-04-13T19:30:07Z",
+  "repo_name": "restaurant-verified-email-access-in-arizona-us-sample-574349",
+  "sample_asset_name": "beamstation_574349_restaurants-us-az_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/574349/beamstation_574349_restaurants-us-az_SAMPLE_DIST.csv",
+  "sample_records": 10,
+  "sample_sha256": "44b1984cb1535d40067d58f302c6afd01c74377b1b05034287714834fa17aa42",
+  "sample_size_bytes": 59156,
+  "total_records": 1685
+}

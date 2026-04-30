@@ -1,6 +1,6 @@
 # Restaurant Verified Email Access in Arizona, US
 
-> Free BeamStation sample export with 271 rows and masked direct-contact fields.
+> Free BeamStation sample export with 327 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `574349` |
 | Location | Arizona |
 | Category | Restaurants |
-| Full dataset size | 2,715 records |
-| Free sample size | 271 records (9.98%) |
-| Last export | 2026-04-22T09:03:03.377209+00:00 |
+| Full dataset size | 3,270 records |
+| Free sample size | 327 records (10.0%) |
+| Last export | 2026-04-29T10:35:28.221346+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/restaurant-verified-email-access-in-arizona-us-sample-574349/releases/download/sample-latest/beamstation_574349_restaurants-us-az_SAMPLE_DIST.csv) |
 
 ## What is in this sample
